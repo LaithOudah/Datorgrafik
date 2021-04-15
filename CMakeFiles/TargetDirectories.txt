@@ -1,0 +1,12 @@
+C:/Users/laith/Documents/DatorgrafikLAB1/CMakeFiles/tnm046-labs.dir
+C:/Users/laith/Documents/DatorgrafikLAB1/CMakeFiles/INSTALL.dir
+C:/Users/laith/Documents/DatorgrafikLAB1/CMakeFiles/ALL_BUILD.dir
+C:/Users/laith/Documents/DatorgrafikLAB1/CMakeFiles/ZERO_CHECK.dir
+C:/Users/laith/Documents/DatorgrafikLAB1/glfw-3.3.2/CMakeFiles/uninstall.dir
+C:/Users/laith/Documents/DatorgrafikLAB1/glfw-3.3.2/CMakeFiles/INSTALL.dir
+C:/Users/laith/Documents/DatorgrafikLAB1/glfw-3.3.2/CMakeFiles/ALL_BUILD.dir
+C:/Users/laith/Documents/DatorgrafikLAB1/glfw-3.3.2/src/CMakeFiles/glfw.dir
+C:/Users/laith/Documents/DatorgrafikLAB1/glfw-3.3.2/src/CMakeFiles/INSTALL.dir
+C:/Users/laith/Documents/DatorgrafikLAB1/glew/CMakeFiles/GLEW.dir
+C:/Users/laith/Documents/DatorgrafikLAB1/glew/CMakeFiles/INSTALL.dir
+C:/Users/laith/Documents/DatorgrafikLAB1/glew/CMakeFiles/ALL_BUILD.dir
