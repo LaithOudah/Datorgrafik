@@ -9,7 +9,10 @@
 #pragma once
 
 // --- Add this line to your includes
-#include "Utilities.hpp"
+#include <GL/glew.h>
+#include <GLFW/glfw3.h>
+#include <vector>
+#include <array>
 
 struct GLFWwindow;
 
@@ -26,4 +29,9 @@ namespace util {
  */
 double displayFPS(GLFWwindow* window);
 
+GLuint createVertexBuffer(int location, int dimensions, const std::vector<float>& vertices);
+
+GLuint createIndexBuffer(const std::vector<unsigned int>& indices);
+
 }  // namespace util
+
