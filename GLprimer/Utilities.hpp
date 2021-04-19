@@ -8,6 +8,9 @@
  */
 #pragma once
 
+// --- Add this line to your includes
+#include "Utilities.hpp"
+
 struct GLFWwindow;
 
 namespace util {

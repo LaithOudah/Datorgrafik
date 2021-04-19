@@ -353,6 +353,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Name>glfw</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="GLprimer\fragment.glsl" />
+    <None Include="GLprimer\vertex.glsl" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -48,4 +48,12 @@
       <UniqueIdentifier>{EDE6AADF-CA10-3EAF-924F-7FF5B80A5695}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="GLprimer\fragment.glsl">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="GLprimer\vertex.glsl">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
